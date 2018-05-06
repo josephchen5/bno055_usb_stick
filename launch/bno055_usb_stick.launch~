@@ -11,7 +11,7 @@
       <param name="fixed_frame_id"   type="string"   value="fixed"  />
       <param name="frame_id"         type="string"   value="imu_link"  />
 
-      <param name="port"        type="string"   value="/dev/ttyACM0" />
+      <param name="port"        type="string"   value="/bno055_imu" />
       <param name="mode"        type="string"   value="ndof" />
 
  <!--  nodf: estimate absolute orientation with an accelerometer, gyroscope, and magnetometer-->
